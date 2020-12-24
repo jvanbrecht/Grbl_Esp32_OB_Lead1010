@@ -31,7 +31,7 @@
     along with Grbl_ESP32.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#define MACHINE_NAME "LEAD_1010_OPENBUILDS_XYZ"
+#define MACHINE_NAME "LEAD_1010_OPENBUILDS_XYZ_5160"
 
 
 #define N_AXIS 3
